@@ -796,7 +796,7 @@ This project is licensed under the **MIT License**.
 
 You can view the full license here:
 
-👉 [MIT License](./LICENSE)
+📜 **[View MIT License](./LICENSE.txt)**
 
 ---
 
