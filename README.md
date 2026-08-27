@@ -790,15 +790,13 @@ and continue improving software development skills.
 
 ---
 
-# 📄 License
+## 📄 License
 
 This project is licensed under the **MIT License**.
 
-The full license text is available in:
+You can view the full license here:
 
-```text
-LICENSE.txt
-```
+👉 [MIT License](./LICENSE)
 
 ---
 
