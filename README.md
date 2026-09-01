@@ -342,17 +342,11 @@ The complete game process can be summarized as follows:
 ## 📅 Development Timeline
 
 
-
-|                           | Date              |
-
-| :------------------------ | :---------------- |
-
-| 🚀 **Started**            | November 28, 2025 |
-
-| ✅ **Completed**          | November 30, 2025 |
-
-| ⏱️ **Development Period** | 2 Days            |
-
+| Milestone | Date |
+| :--- | :--- |
+| 🚀 **Started** | November 28, 2025 |
+| ✅ **Completed** | November 30, 2025 |
+| ⏱️ **Development Period** | 2 Days |
 
 
 > **Note:** These dates represent the actual development period of the project, not the date it was uploaded to GitHub.
