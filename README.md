@@ -33,6 +33,7 @@ random number generation, and game logic.
   - [🏆 Final Result](#-final-result)
   - [✅ Pass / ❌ Fail System](#-pass--fail-system)
 - [🔄 Game Flow](#-game-flow)
+- [📅 Development Timeline](#-development-timeline)
 - [🧩 C++ Concepts Applied](#-c-concepts-applied)
 - [🔧 Functions](#-functions)
 - [🎲 Random Number Generation](#-random-number-generation)
@@ -334,7 +335,27 @@ The complete game process can be summarized as follows:
                     ▼
                🏆 Final Result
 ```
+---
 
+
+
+## 📅 Development Timeline
+
+
+
+|                           | Date              |
+
+| :------------------------ | :---------------- |
+
+| 🚀 **Started**            | November 28, 2025 |
+
+| ✅ **Completed**          | November 30, 2025 |
+
+| ⏱️ **Development Period** | 2 Days            |
+
+
+
+> **Note:** These dates represent the actual development period of the project, not the date it was uploaded to GitHub.
 ---
 
 # 🧩 C++ Concepts Applied
